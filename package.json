@@ -1,6 +1,6 @@
 {
   "name": "catbox.moe",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "Lightweight and simple module to catbox.moe api management",
   "main": "./lib/index.js",
   "scripts": {
@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/tentaclenotsoft/node-catbox#readme",
   "dependencies": {
+    "crypto": "^1.0.1",
+    "file-type": "^18.2.1",
     "form-data": "^3.0.0",
     "node-fetch": "^2.6.0"
   },
