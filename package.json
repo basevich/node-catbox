@@ -1,6 +1,6 @@
 {
   "name": "catbox.moe",
-  "version": "1.1.2",
+  "version": "1.2.2",
   "description": "Lightweight and simple module to catbox.moe api management",
   "main": "./lib/index.js",
   "scripts": {
